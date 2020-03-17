@@ -16,6 +16,7 @@ const cli = meow(
       $ spotify commands [--options] [argument]
 
     Command
+      login            open your default browser and show authentication page
       next             play next track
       search           search playlist / artist / track
 
