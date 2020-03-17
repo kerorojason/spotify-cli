@@ -1,6 +1,8 @@
 ### Usage
 
-\$ spotify commands [--options][argument]
+```
+$ spotify commands [--options][argument]
+```
 
 ### Command
 
